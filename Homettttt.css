@@ -1,0 +1,19 @@
+h1 {
+	color: #000000;
+	text-align: center;
+	font-size: 200%;
+}
+
+
+h3 {
+	color: black
+	font-size 50%;
+	position:absolute;bottom:500px;left:20px;
+}
+
+
+body {
+	background-color: #668cff;
+	font-family: helvetica;
+
+}
